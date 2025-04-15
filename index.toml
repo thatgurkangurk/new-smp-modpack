@@ -1,8 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "CNAME"
+hash = "911f4f93b66fd1ab3940803202cde9f4560d92399ff30d8fb3ebea7c9d1352a0"
+
+[[files]]
 file = "LICENSE"
 hash = "6b0382b16279f26ff69014300541967a356a666eb0b91b422f6862f6b7dad17e"
+
+[[files]]
+file = "index.html"
+hash = "c3efe8a66a9d3e056bd77773b26bd9f6eee36a4de6797de2a20d70530d2348af"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -196,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "e4289903fd7e3406ae125763a57858251d6ecb566114274d7ed88f00217fd894"
+hash = "61ad7f1765e70e676d3f35f4fbad549901ac6cf1065adc019e5046c928024bcc"
 metafile = true
 
 [[files]]
