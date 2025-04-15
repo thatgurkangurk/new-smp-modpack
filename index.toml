@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "CNAME"
-hash = "911f4f93b66fd1ab3940803202cde9f4560d92399ff30d8fb3ebea7c9d1352a0"
-
-[[files]]
 file = "LICENSE"
 hash = "6b0382b16279f26ff69014300541967a356a666eb0b91b422f6862f6b7dad17e"
 
