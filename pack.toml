@@ -1,0 +1,13 @@
+name = "new smp modpack"
+author = "Gurkan"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "206f65ac56218e8dc528fd631142763a79142a2465860b12fe5bea4eb7485276"
+
+[versions]
+fabric = "0.16.13"
+minecraft = "1.21.1"
