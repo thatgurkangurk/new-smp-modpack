@@ -29,6 +29,11 @@ hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "ab8dd091e73ca0301bcd07b47faff46ed8035f9cded59a5337d863ff466adf20"
+metafile = true
+
+[[files]]
 file = "mods/camerapture.pw.toml"
 hash = "df2d9f7d3423e067d44ed247e5d659ae4948fb70ecb53ddb215dc5c50680fba0"
 metafile = true
@@ -36,6 +41,11 @@ metafile = true
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "56d0a735ef8c0bfe4ee06bfa66cd11753002c98411eb167cad68f8adcbd76d0a"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "14f64df0e72502d7f3a375eb92061c904dc68f8f415e7591a6345ccc12cfaba2"
 metafile = true
 
 [[files]]
@@ -191,6 +201,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "be0c8881821da897824770b2a71f0f3765a233eda69b295fa5b92ffe8a25014c"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "f03452b38a7ce73431c647b772f11051d30bb23891f6dfba1173a65319f4d7ac"
 metafile = true
 
 [[files]]
