@@ -49,6 +49,11 @@ hash = "922029dfc00fa5255c633b44951670135e8ca2511e2c4d23f5860d9aa01cf193"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "250325230187d9c6251e24091d6396ac54d73601e04c96ca5be0af864623a7c5"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "ab8dd091e73ca0301bcd07b47faff46ed8035f9cded59a5337d863ff466adf20"
 metafile = true
@@ -129,13 +134,38 @@ hash = "df22e7d2e96d87a5b4a6467a9345eeea5365fe57763f56aaa1d3944570b51d38"
 metafile = true
 
 [[files]]
+file = "mods/fabric-seasons-delight-compat.pw.toml"
+hash = "ca6466a711561f431038af2698dfaa4e683703f74908655a5742adbc0f5433ef"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons-extras.pw.toml"
+hash = "7833078d6daef78131f8cc43425ef5292413e966154ac3ce305e17196bd530e2"
+metafile = true
+
+[[files]]
+file = "mods/fabric-seasons.pw.toml"
+hash = "d40faa8d75ec7b4741146b033dca1d47368868985da3dcc6dc32fd9def5841d9"
+metafile = true
+
+[[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "8945ea290647fec8b91c24bd81821ee1d73d84a968d23260dbee24ceb951db4d"
 metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "3440b13d464f366335761fb1a3522b843ec0a76ffb7b6bea3e8eeedfd49c24b3"
+hash = "da756fc8e9d124170b0ddfb68815335de72832f6ff973f7798765615bc867fab"
+metafile = true
+
+[[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "24602918bfcb1c3289563e9371fbfe09c9d0307167b44ae3ceb81fc925a9cb26"
+metafile = true
+
+[[files]]
+file = "mods/frostiful.pw.toml"
+hash = "35179578202de4d3fb01cced86ae48f44bd3c35d5f393316e107bc5902c1803f"
 metafile = true
 
 [[files]]
@@ -184,6 +214,11 @@ hash = "88b5510e39cdc8ca356d54bc436edc777d5eafc03203a8724784183408fe6792"
 metafile = true
 
 [[files]]
+file = "mods/melius-essentials.pw.toml"
+hash = "cbf9add64a7e438eb56132dfa23f6080ee8651bfd761b899e7b6fe7119fe7156"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
 metafile = true
@@ -216,6 +251,16 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "33fd0d8f99ff36c8d1c5ee622dd57df3b35e1e0e9b7411bf2c69d2ac71e9219d"
+metafile = true
+
+[[files]]
+file = "mods/scorchful.pw.toml"
+hash = "0f8d94c3cb301fd78d0468e963f3385103705695c412adfdac8c87dbf0c31129"
 metafile = true
 
 [[files]]
@@ -261,6 +306,16 @@ metafile = true
 [[files]]
 file = "mods/terrestria.pw.toml"
 hash = "04722f5b62228d9d5df97075d4c501deaa5cd5c534dd934570b2dad9e9cbef6f"
+metafile = true
+
+[[files]]
+file = "mods/thermoo.pw.toml"
+hash = "a07288763334d7805e7258bd1bd383382e79dd569269548edbf8f494e569c97f"
+metafile = true
+
+[[files]]
+file = "mods/tips.pw.toml"
+hash = "0cbbbed7bbf993ef52887473ed8fa0fef4b977d7c11779ef0bf539e5f49a3693"
 metafile = true
 
 [[files]]

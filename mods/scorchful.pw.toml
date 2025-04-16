@@ -1,0 +1,13 @@
+name = "Scorchful"
+filename = "scorchful-0.15.4+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SZQ5qcdn/versions/Mv9npqMV/scorchful-0.15.4%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "caa36049ff02e940ef423859cdbc80127dd190163570ee9d812488d7050e05099a2c18203088933cebe3f272ebd11d4d2d11cf72c9296b7a66166de5a9f335b0"
+
+[update]
+[update.modrinth]
+mod-id = "SZQ5qcdn"
+version = "Mv9npqMV"
