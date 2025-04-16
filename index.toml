@@ -29,26 +29,6 @@ hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
 metafile = true
 
 [[files]]
-file = "mods/blossomenderchest.pw.toml"
-hash = "966b237e9f6aa62fb4179625520056237dff8c7f178f03301b84ca55695bc7bf"
-metafile = true
-
-[[files]]
-file = "mods/blossomhomes.pw.toml"
-hash = "7b50dcd1d36768c501827fb34934cdc730fbefe5e013f04d4dd39596c0761726"
-metafile = true
-
-[[files]]
-file = "mods/blossomlib.pw.toml"
-hash = "a78b9ce8ba37cbc249146e7a383f475bec11b2fd5c01786cc96280723dad1c87"
-metafile = true
-
-[[files]]
-file = "mods/blossomtpa.pw.toml"
-hash = "922029dfc00fa5255c633b44951670135e8ca2511e2c4d23f5860d9aa01cf193"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "250325230187d9c6251e24091d6396ac54d73601e04c96ca5be0af864623a7c5"
 metafile = true
