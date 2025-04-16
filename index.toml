@@ -99,6 +99,11 @@ hash = "a4b817f8c3de5af3a6ecb2b72caa2daa3042c1e65cc8eb3c794a0b3ec3bbf847"
 metafile = true
 
 [[files]]
+file = "mods/environmentz.pw.toml"
+hash = "5fd819c632318b1c47fe74cf973be333fc7a5c7eb5a2b99e58ce3882170c4241"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "9ee84bdf71ae7963fabc99e8bb44acb72334d281b02ddac913e25daf7b81c143"
 metafile = true
@@ -146,11 +151,6 @@ metafile = true
 [[files]]
 file = "mods/first-person-model.pw.toml"
 hash = "24602918bfcb1c3289563e9371fbfe09c9d0307167b44ae3ceb81fc925a9cb26"
-metafile = true
-
-[[files]]
-file = "mods/frostiful.pw.toml"
-hash = "35179578202de4d3fb01cced86ae48f44bd3c35d5f393316e107bc5902c1803f"
 metafile = true
 
 [[files]]
@@ -244,8 +244,8 @@ hash = "33fd0d8f99ff36c8d1c5ee622dd57df3b35e1e0e9b7411bf2c69d2ac71e9219d"
 metafile = true
 
 [[files]]
-file = "mods/scorchful.pw.toml"
-hash = "0f8d94c3cb301fd78d0468e963f3385103705695c412adfdac8c87dbf0c31129"
+file = "mods/satin-api.pw.toml"
+hash = "f9a52a47c4e0c8aca52169f17406eac34c8bf6bb3b9d049c57414345c8d78315"
 metafile = true
 
 [[files]]
@@ -291,16 +291,6 @@ metafile = true
 [[files]]
 file = "mods/terrestria.pw.toml"
 hash = "04722f5b62228d9d5df97075d4c501deaa5cd5c534dd934570b2dad9e9cbef6f"
-metafile = true
-
-[[files]]
-file = "mods/thermoo-patches.pw.toml"
-hash = "1ac07a6ce2769ba8010502c7db12b1285c3d1057bdf522f79cc17361746ea97b"
-metafile = true
-
-[[files]]
-file = "mods/thermoo.pw.toml"
-hash = "a07288763334d7805e7258bd1bd383382e79dd569269548edbf8f494e569c97f"
 metafile = true
 
 [[files]]
