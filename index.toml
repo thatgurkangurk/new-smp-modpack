@@ -29,6 +29,26 @@ hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
 metafile = true
 
 [[files]]
+file = "mods/blossomenderchest.pw.toml"
+hash = "966b237e9f6aa62fb4179625520056237dff8c7f178f03301b84ca55695bc7bf"
+metafile = true
+
+[[files]]
+file = "mods/blossomhomes.pw.toml"
+hash = "7b50dcd1d36768c501827fb34934cdc730fbefe5e013f04d4dd39596c0761726"
+metafile = true
+
+[[files]]
+file = "mods/blossomlib.pw.toml"
+hash = "a78b9ce8ba37cbc249146e7a383f475bec11b2fd5c01786cc96280723dad1c87"
+metafile = true
+
+[[files]]
+file = "mods/blossomtpa.pw.toml"
+hash = "922029dfc00fa5255c633b44951670135e8ca2511e2c4d23f5860d9aa01cf193"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "ab8dd091e73ca0301bcd07b47faff46ed8035f9cded59a5337d863ff466adf20"
 metafile = true
@@ -99,6 +119,11 @@ hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
 metafile = true
 
 [[files]]
+file = "mods/fabric-permissions-api.pw.toml"
+hash = "df22e7d2e96d87a5b4a6467a9345eeea5365fe57763f56aaa1d3944570b51d38"
+metafile = true
+
+[[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "8945ea290647fec8b91c24bd81821ee1d73d84a968d23260dbee24ceb951db4d"
 metafile = true
@@ -106,6 +131,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "3440b13d464f366335761fb1a3522b843ec0a76ffb7b6bea3e8eeedfd49c24b3"
+metafile = true
+
+[[files]]
+file = "mods/invview.pw.toml"
+hash = "515b020926d1fd0b6d1a32d106a376ba2c77bc5587bed99cecbc2d944ad18a99"
 metafile = true
 
 [[files]]
@@ -141,6 +171,11 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "6c9f10bdf4115e50a103edd700902ba55f34b1321fa58a692d35e97cc110d511"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "88b5510e39cdc8ca356d54bc436edc777d5eafc03203a8724784183408fe6792"
 metafile = true
 
 [[files]]
