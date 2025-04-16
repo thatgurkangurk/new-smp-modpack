@@ -99,6 +99,11 @@ hash = "eecdc8127f69c74ff55fd183d1f1d7d5ef3e714d73845a239fe9e086147a67b1"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "363b6a77d7f7802a58aecd51e932745b0ab663a5810a681b654e2f3584ac11b1"
+metafile = true
+
+[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "91a75f0b5bea7356c7c1018be47d506aa984d37fd0e6f0b8d3336ef71e8b3862"
 metafile = true
@@ -281,6 +286,11 @@ metafile = true
 [[files]]
 file = "mods/visuality.pw.toml"
 hash = "39426bfeeab22ea17f94fd3904dd9b78f9a3c9b4ddcb732b734ddbfd0e3568af"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "ec15f6beff0499d5784e5ca8863f9e2772e8a5f3501d07f471b7b8bdf6655277"
 metafile = true
 
 [[files]]
