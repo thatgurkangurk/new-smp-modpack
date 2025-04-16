@@ -124,6 +124,11 @@ hash = "7833078d6daef78131f8cc43425ef5292413e966154ac3ce305e17196bd530e2"
 metafile = true
 
 [[files]]
+file = "mods/fabric-seasons-terraformers-compat.pw.toml"
+hash = "52545552cab9c2040bac82018bac039861f5b9b2de816e63f927cb01e56b132f"
+metafile = true
+
+[[files]]
 file = "mods/fabric-seasons.pw.toml"
 hash = "d40faa8d75ec7b4741146b033dca1d47368868985da3dcc6dc32fd9def5841d9"
 metafile = true
@@ -286,6 +291,11 @@ metafile = true
 [[files]]
 file = "mods/terrestria.pw.toml"
 hash = "04722f5b62228d9d5df97075d4c501deaa5cd5c534dd934570b2dad9e9cbef6f"
+metafile = true
+
+[[files]]
+file = "mods/thermoo-patches.pw.toml"
+hash = "1ac07a6ce2769ba8010502c7db12b1285c3d1057bdf522f79cc17361746ea97b"
 metafile = true
 
 [[files]]
