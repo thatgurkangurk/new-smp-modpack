@@ -35,7 +35,7 @@ metafile = true
 
 [[files]]
 file = "mods/boids.pw.toml"
-hash = "f83a7695cdf9b6d284c00eb0343973a339413a1d3a3c7a13ce07ccafaab7414e"
+hash = "79768c5740f8db236b51428d59cce04aa9923e83b2c1b0fa441ead3f662c5420"
 metafile = true
 
 [[files]]
