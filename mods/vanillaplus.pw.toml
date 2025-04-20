@@ -1,15 +1,15 @@
 name = "vanillaplus"
-filename = "vanillaplus-1.0.0.jar"
+filename = "vanillaplus-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://github.com/thatgurkangurk/vanillaplus/releases/download/v1.0.0/vanillaplus-1.0.0.jar"
+url = "https://github.com/thatgurkangurk/vanillaplus/releases/download/v1.0.1/vanillaplus-1.0.1.jar"
 hash-format = "sha256"
-hash = "c9fbe50d5938a1b24e748a9295ace839f320eb6d3215e18efd53c886f49fc9e8"
+hash = "742b56b5afb8ca7bdc04bbf17454982e032070b7c12b58a295e2d58f8515ef07"
 
 [update]
 [update.github]
 branch = "main"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "thatgurkangurk/vanillaplus"
-tag = "v1.0.0"
+tag = "v1.0.1"

@@ -384,6 +384,11 @@ hash = "52f80f48da02038e10c6df0e12859a1ad082475c0f4bccf9800becf8ad796951"
 metafile = true
 
 [[files]]
+file = "mods/vanillaplus.pw.toml"
+hash = "604eb4c9c99bc38b82b18eb5c4882cb95cefbb04af176fe3db2a9c6254957c46"
+metafile = true
+
+[[files]]
 file = "mods/veinminer.pw.toml"
 hash = "324b5730c0b047adb5c11356a4bc994d2b3b9a941b2f66f002a1e285c3a08e72"
 metafile = true
