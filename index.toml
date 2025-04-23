@@ -375,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanillaplus.pw.toml"
-hash = "604eb4c9c99bc38b82b18eb5c4882cb95cefbb04af176fe3db2a9c6254957c46"
+hash = "9e2d5bdbcf6f0d091bf0dead988835c3fb21d1dd247d3ae924889c57a500a8de"
 metafile = true
 
 [[files]]
