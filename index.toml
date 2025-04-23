@@ -259,11 +259,6 @@ hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
 metafile = true
 
 [[files]]
-file = "mods/no-hostiles-around-campfire.pw.toml"
-hash = "d8fef6507b7903b4373514e21dae1c2ffeea09ec928ca7481397a67b840d39ec"
-metafile = true
-
-[[files]]
 file = "mods/noisium.pw.toml"
 hash = "dcc936d7bd32a86ce63fa3bf013864a4e2ed979cb126a915153ac70ce5e5671f"
 metafile = true
