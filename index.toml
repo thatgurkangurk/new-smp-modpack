@@ -269,6 +269,11 @@ hash = "a6e3ca19c98f18fcf6e8a89587c0fb15df4a2147db9ae1f18d3d2b178fce10ac"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
 metafile = true
@@ -381,6 +386,11 @@ metafile = true
 [[files]]
 file = "mods/veinminer.pw.toml"
 hash = "324b5730c0b047adb5c11356a4bc994d2b3b9a941b2f66f002a1e285c3a08e72"
+metafile = true
+
+[[files]]
+file = "mods/vinurl.pw.toml"
+hash = "392038e29aabea31484d69509ac883d8bef369860766db869e3dd90b7d3eb600"
 metafile = true
 
 [[files]]
