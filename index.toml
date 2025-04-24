@@ -44,11 +44,6 @@ hash = "250325230187d9c6251e24091d6396ac54d73601e04c96ca5be0af864623a7c5"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "ab8dd091e73ca0301bcd07b47faff46ed8035f9cded59a5337d863ff466adf20"
-metafile = true
-
-[[files]]
 file = "mods/camerapture.pw.toml"
 hash = "df2d9f7d3423e067d44ed247e5d659ae4948fb70ecb53ddb215dc5c50680fba0"
 metafile = true
@@ -179,6 +174,11 @@ hash = "da756fc8e9d124170b0ddfb68815335de72832f6ff973f7798765615bc867fab"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "9fb4d588bd578e2f16a9605ff6303872130b36ccb0fdfff98bd7274da94f91b9"
+metafile = true
+
+[[files]]
 file = "mods/friends-and-foes.pw.toml"
 hash = "89113d0e4c7e47ffe340d550e78432cd8b2185672c862ced2e13f47e4984ebcd"
 metafile = true
@@ -241,6 +241,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "425301cd23244c238ac2681623ccdc5d7a7cbef51c71c0ad2fa6fbc7caee61de"
+metafile = true
+
+[[files]]
+file = "mods/moonrise-opt.pw.toml"
+hash = "9de1fc82001c56c5724c01263812d4a6237f87a1d4a85e337d90c3f9e530253e"
 metafile = true
 
 [[files]]
