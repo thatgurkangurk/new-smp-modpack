@@ -240,12 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "425301cd23244c238ac2681623ccdc5d7a7cbef51c71c0ad2fa6fbc7caee61de"
-metafile = true
-
-[[files]]
-file = "mods/moonrise-opt.pw.toml"
-hash = "9de1fc82001c56c5724c01263812d4a6237f87a1d4a85e337d90c3f9e530253e"
+hash = "4aa2a1ff8fa4f4901471e374eac51aa77844c6f269d190e0fba6e9cbb067b5ce"
 metafile = true
 
 [[files]]
